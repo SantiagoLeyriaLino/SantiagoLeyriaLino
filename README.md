@@ -1,4 +1,7 @@
 ### Hi there 👋 I am Santiago Leyria Lino
+<p align="center">
+  <img src="https://kinsta.com/wp-content/uploads/2021/11/front-end-developer-1024x512.png" alt="Profile Image">
+</p>
 :house_with_garden: I live in Rio Cuarto, Argentina.<br>
 :computer: Passionate Full Stack web developer with experience in frontend and backend. Skills in HTML, CSS, JavaScript, React, Redux, Node.js, Express, Sequelize, Mongoose, PostgreSQL and MongoDB. Ability to create complete and functional web applications, collaborating in all stages of development..<br>
 
