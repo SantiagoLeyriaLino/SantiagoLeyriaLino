@@ -2,6 +2,19 @@
 <p align="center">
   <img src="https://www.piensasolutions.com/blog/file/uploads/2017/10/bannerprogramacion.jpg" alt="Profile Image">
 </p>
+### Contact
+<p align="center">
+<a href="https://www.linkedin.com/in/santiago-leyria-lino/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a><br>
+<a href="mailto:leyrialinosantiago@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a><br>
+<a href="tel:+5493584393978">
+  <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=phone&logoColor=white" alt="Phone">
+</a><br>
+  </p>
+
 :house_with_garden: I live in Rio Cuarto, Argentina.<br>
 :computer:Passionate about full stack web development in constant growth and learning. With experience in front-end and back-end technologies, I am focused on building modern and functional web applications. My goal is to create innovative solutions that provide an excellent user experience and meet the needs of customers. I am familiar with programming languages ​​like HTML, CSS, JavaScript, as well as popular frameworks and libraries like React, Node.js, Redux, Express, Sequelize, and Mongoose. In addition, I have experience in database design with PostgresSQL and MongDB, API development, and management of version control systems. I am excited to collaborate on challenging projects and work as a team to drive business success and growth through technology. I am always open to new opportunities and eager to expand my skills in the field of full web development.<br>
 
@@ -35,13 +48,3 @@
 - CyberSecurity
 - Debugging 
 
-### Contact
-<a href="https://www.linkedin.com/in/santiago-leyria-lino/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a><br>
-<a href="mailto:leyrialinosantiago@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a><br>
-<a href="tel:+5493584393978">
-  <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=phone&logoColor=white" alt="Phone">
-</a><br>
