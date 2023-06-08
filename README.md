@@ -29,7 +29,7 @@
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=SantiagoLeyriaLino&count_private=true&show_icons=true&theme=apprentice" alt="github stats"> 
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoLeyriaLino&exclude_repo=SantiagoLeyriaLino.github.io&layout=compact&theme=apprentice" alt="Top langs">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoLeyriaLino&layout=compact&theme=apprentice" alt="Top languages">
 </p>
 
 ### Interests
