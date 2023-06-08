@@ -30,12 +30,10 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoLeyriaLino&layout=compact&theme=apprentice" alt="Top languages">
 </p>
 
-### Interests
-- Backend Engineering
-- System Design
-- Cryptocurrency
-- GameFi
-- VR/AR
+### Additional Interest
+- Web Architecture
+- CyberSecurity
+- Debugging 
 
 ### Contact
 <a href="https://www.linkedin.com/in/santiago-leyria-lino/" target="_blank">
