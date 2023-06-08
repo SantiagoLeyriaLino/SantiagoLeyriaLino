@@ -7,9 +7,9 @@
 <span href="https://www.linkedin.com/in/santiago-leyria-lino/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </span><br>
-<a href="mailto:leyrialinosantiago@gmail.com" target="_blank">
+<span href="mailto:leyrialinosantiago@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a><br>
+</span><br>
 <a href="tel:+5493584393978">
   <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=phone&logoColor=white" alt="Phone">
 </a><br>
