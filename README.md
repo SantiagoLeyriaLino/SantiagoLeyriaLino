@@ -21,9 +21,9 @@
 
 ### Github States
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=klee1611&count_private=true&show_icons=true&theme=apprentice" alt="github states"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=SantiagoLeyriaLino&count_private=true&show_icons=true&theme=apprentice" alt="github states"> 
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=klee1611&exclude_repo=SantiagoLeyriaLino.github.io&layout=compact&theme=apprentice" alt="Top langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoLeyriaLino&exclude_repo=SantiagoLeyriaLino.github.io&layout=compact&theme=apprentice" alt="Top langs">
 </p>
 
 ### Interests
@@ -40,6 +40,6 @@
 <a href="mailto:kourtneylee1611@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a><br>
-<a href="https://github.com/klee1611">
+<a href="https://github.com/SantiagoLeyriaLino">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github">
 </a><br>
