@@ -1,6 +1,6 @@
-### Hi there 👋 I am Kourtney Lee
-:house_with_garden: I live in Taipei, Taiwan.<br>
-:computer: I am currently working for a global VR company as a senior backend engineer.<br>
+### Hi there 👋 I am Snatiago Leyria Lino
+:house_with_garden: I live in Rio Cuarto, Argentina.<br>
+:computer: Passionate Full Stack web developer with experience in frontend and backend. Skills in HTML, CSS, JavaScript, React, Redux, Node.js, Express, Sequelize, Mongoose, PostgreSQL and MongoDB. Ability to create complete and functional web applications, collaborating in all stages of development..<br>
 
 ### Skill-set
 <p align="center">
