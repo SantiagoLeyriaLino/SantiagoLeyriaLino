@@ -1,4 +1,4 @@
-### Hi there 👋 I am Snatiago Leyria Lino
+### Hi there 👋 I am Santiago Leyria Lino
 :house_with_garden: I live in Rio Cuarto, Argentina.<br>
 :computer: Passionate Full Stack web developer with experience in frontend and backend. Skills in HTML, CSS, JavaScript, React, Redux, Node.js, Express, Sequelize, Mongoose, PostgreSQL and MongoDB. Ability to create complete and functional web applications, collaborating in all stages of development..<br>
 
@@ -19,9 +19,9 @@
   <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell script">
 </p>
 
-### Github States
+### Github Stats
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=SantiagoLeyriaLino&count_private=true&show_icons=true&theme=apprentice" alt="github states"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=SantiagoLeyriaLino&count_private=true&show_icons=true&theme=apprentice" alt="github stats"> 
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoLeyriaLino&exclude_repo=SantiagoLeyriaLino.github.io&layout=compact&theme=apprentice" alt="Top langs">
 </p>
