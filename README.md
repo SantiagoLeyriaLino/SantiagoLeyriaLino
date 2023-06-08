@@ -13,7 +13,7 @@
 </a>
 <a href="tel:+5493584393978">
   <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=phone&logoColor=white" alt="Phone">
-</a>
+</a><br>
   
 
 :house_with_garden: I live in Rio Cuarto, Argentina.<br>
