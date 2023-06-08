@@ -4,9 +4,9 @@
 </p>
 ### Contact
 <p align="center">
-<a href="https://www.linkedin.com/in/santiago-leyria-lino/" target="_blank">
+<span href="https://www.linkedin.com/in/santiago-leyria-lino/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a><br>
+</span><br>
 <a href="mailto:leyrialinosantiago@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a><br>
