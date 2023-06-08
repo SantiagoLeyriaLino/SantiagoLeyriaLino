@@ -4,6 +4,7 @@
 </p>
 ### Contact
 <br>
+<br>
 <a href="https://www.linkedin.com/in/santiago-leyria-lino/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
@@ -12,7 +13,7 @@
 </a>
 <a href="tel:+5493584393978">
   <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=phone&logoColor=white" alt="Phone">
-</a><br>
+</a>
   
 
 :house_with_garden: I live in Rio Cuarto, Argentina.<br>
