@@ -12,8 +12,7 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 <a href="tel:+5493584393978" style="position: relative; display: inline-block;">
-  <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=phone&logoColor=white" alt="Phone" style="vertical-align: middle;">
-  <span style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-weight: bold; font-size: 14px;">Phone: (+54) 9 3584393978</span>
+  <span>Phone: (+54) 9 3584393978</span>
 </a><br>
   
 
