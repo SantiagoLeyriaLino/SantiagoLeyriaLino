@@ -10,7 +10,7 @@
 </a>
 <a href="mailto:leyrialinosantiago@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a><br>
+</a><br><br>
 <a href="tel:+5493584393978" style="position: relative; display: inline-block;">
   <span>Phone: (+54) 9 3584393978</span>
 </a><br>
